@@ -6,4 +6,5 @@ function DisplayArea({text}) {
   )
 }
 
+
 export default DisplayArea
