@@ -2,7 +2,7 @@ import "./DisplayArea.css"
 
 function DisplayArea({text}) {
   return (
-    <h1>{text}</h1>
+    <h1 className="calculationArea">{text}</h1>
   )
 }
 
